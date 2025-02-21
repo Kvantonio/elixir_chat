@@ -3,9 +3,6 @@
 
 ## Run
 
-Run
----
-
 ```
 mix deps.get
 mix compile
